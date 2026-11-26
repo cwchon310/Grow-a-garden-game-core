@@ -17,5 +17,3 @@
 非完整可直接運行的遊戲，需補齊 `GetFarm`、`StringUtils`、`PlayerLuck`、`GameEvents` 等依賴。
 
 ---
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
